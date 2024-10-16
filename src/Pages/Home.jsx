@@ -1188,12 +1188,13 @@ const Home = () => {
 					<div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5322eea" data-id="5322eea" data-element_type="column">
 			<div className="elementor-widget-wrap elementor-element-populated">
 						<div className="elementor-element elementor-element-b8f74ad elementor-widget elementor-widget-text-editor" data-id="b8f74ad" data-element_type="widget" data-widget_type="text-editor.default">
-				<div className="elementor-widget-container">
+				{/* <div className="elementor-widget-container">
 							<div id="map-bottom">
 <div className="mapouter">
 <div className="gmap_canvas"><iframe id="gmap_canvas " src="https://maps.google.com/maps?q=brownsville&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe></div>
 </div>
-</div>						</div>
+</div>					
+	</div> */}
 				</div>
 					</div>
 		</div>
